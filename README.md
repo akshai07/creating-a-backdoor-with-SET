@@ -88,7 +88,8 @@ sudo setoolkit
 ```bash
 /var/www/html/
 ```
-<img width="542" height="141" alt="image" src="https://github.com/user-attachments/assets/f6bf61fa-3361-454a-a7c1-42ff9963ca68" />
+<img width="1615" height="442" alt="image" src="https://github.com/user-attachments/assets/6697afbf-3a3f-4ab5-a90f-39a6dd0d6d41" />
+
 
 
 
